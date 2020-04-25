@@ -1,6 +1,4 @@
 import React, { Component } from "react";
-import Table from "../components/Table";
-import Search from "../components/Search";
 import { Link } from "react-router-dom";
 
 class Home extends Component {
